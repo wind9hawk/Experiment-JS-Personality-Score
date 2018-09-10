@@ -1,0 +1,34 @@
+Brief Scenario Descriptions
+
+
+
+1. User who did not previously use removable drives or work after
+hours begins logging in after hours, using a removable drive, and 
+uploading data to wikileaks.org. Leaves the organization shortly
+thereafter.（之前不用U盘或者不加班的人）
+
+
+
+2. User begins surfing job websites and soliciting（请求） employment from a 
+competitor（竞争者）. Before leaving the company, they use a thumb drive (at 
+markedly higher rates than their previous activity) to steal data.
+
+（突然频繁使用U盘）
+
+3. System administrator becomes disgruntled. Downloads a keylogger and
+ uses a thumb drive to transfer it to his supervisor's machine. The
+next day, he uses the collected keylogs to log in as his supervisor
+and send out an alarming mass email, causing panic in the 
+organization. He leaves the organization immediately.（心怀不满的系统管理员，借修理电脑的机会利用U盘将键盘木马安装到上司的计算机中。第二天使用记录得到的密码登陆上司邮箱，并发送大量令人担忧的邮件，在组织中引发了大量恐慌，然后立刻辞职。）
+
+
+
+4. A user logs into another user's machine and searches for 
+interesting files, emailing to their home email. This behavior occurs
+more and more frequently over a 3 month period.（某员工在3个月的时间段内，多次登录其他一个员工的计算机搜索感兴趣的内容并发送到自己的个人邮箱。）
+
+
+
+5. A member of a group decimated by layoffs uploads documents to
+ Dropbox, planning to use them for personal gain.
+（被解雇的某个项目组成员上传文档到了回收站，计划另谋私利）
